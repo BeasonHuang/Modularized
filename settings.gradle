@@ -1,0 +1,1 @@
+include ':app', ':base_protocol', ':base_protocol_annotation', ':base_protocol_compile'
