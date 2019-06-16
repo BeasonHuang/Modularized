@@ -1,8 +1,8 @@
 apply plugin: 'java-library'
 
-sourceCompatibility = "1.8"
-targetCompatibility = "1.8"
-
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 }
+
+sourceCompatibility = "8"
+targetCompatibility = "8"
